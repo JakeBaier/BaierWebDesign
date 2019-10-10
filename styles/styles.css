@@ -1,0 +1,160 @@
+/*Table of Contents*/
+/*_______________________________
+-General Content
+-Typography
+-Header & Navigation
+-Images & Media
+-Footer
+-Media Queries
+__________________________________*/
+
+/*General Content*/
+
+.main{padding-top:3%;}
+.row{padding: 2% 0;}
+.body{background-color: #33333380;margin-top:1em;}
+.grey{background-image: url("../images/BoardWithPaper.jpg");background-color: #222;background-blend-mode: overlay;
+    height:500px;background-position: center;background-repeat: no-repeat;background-size:cover;position:relative;
+}
+.about{
+    margin-top: 1em;
+    background-color: #33333380;
+    margin-bottom: 1em;}
+.eight{
+    padding-left:.5em;
+}
+.content, .bonsai{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+/* mobile less than 400px */
+@media (max-width: 400px) {
+    
+}
+/*Typography*/
+
+body{
+    font-family: 'Abel';
+    font-size: 1.5em;
+    color: #000;
+    background-color: azure;
+}
+H1{
+    font-family: 'Satisfy';
+    font-size: 3.5em;
+    margin: 0.67em;
+    text-align: center;}
+H2{
+    font-family: 'Satisfy';
+    font-size: 3em;
+    margin: 0.67em;
+    text-align: center;
+}
+H4{
+    font-family: 'Satisfy';
+    font-size: 2em;
+    margin: 0.67em;
+    text-align: center;}
+/*Header & Navigation*/
+
+.six.columns {
+    width:46%;
+    height: auto;
+}
+header.main_nav{
+    padding: 1% 0;
+    display: block;
+}
+.six.columns.logo {
+   width:25%;
+    display:inline-block;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    padding: 1em 1em;
+    text-decoration: none;
+    background-color:#728593ff;
+}
+li a:hover{
+    background-color: #111;
+}
+li a:visited{
+    text-decoration: none;
+}
+li a:active {
+    background-color:#111;
+}
+/* mobile less than 400px */
+@media (max-width: 400px) {
+    .six.columns {
+        width:100%;
+        height: auto;
+    }
+    li{
+        position: center;
+        width: 100%;
+    }
+}
+
+/*Images & Media*/
+
+img{max-width: 100%;
+    padding: .5em;
+    border: 2px solid #000;}
+img.avatar{
+    border: 2px solid #000;
+}
+/*Footer*/
+
+footer{
+    padding-top: 1em;
+    background-color: #333;
+    color: white;
+    padding-bottom: .5em;
+}
+footer.container{
+    display:block;
+    position: relative;
+    width:85%;
+    
+}
+footer.container.row.twelve.columns{
+    width:100%;
+    display: block;
+}
+footer.container.row.three.columns{
+    width: 30%;
+    position: center;
+    display: inline-block;
+    background-color: #728593ff;
+}
+/*Media & Queries*/
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (max-width: 1000px) {
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px){}

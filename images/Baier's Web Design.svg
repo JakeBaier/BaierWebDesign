@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Baier's Web Design.svg">
+  <defs
+     id="defs58">
+    <linearGradient
+       id="linearGradient4751"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#728593;stop-opacity:1;"
+         offset="0"
+         id="stop4749" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4751"
+       id="linearGradient4753"
+       x1="0.00081601141"
+       y1="142.76639"
+       x2="285.53576"
+       y2="142.76639"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4751"
+       id="linearGradient4755"
+       x1="49.71874"
+       y1="433.47917"
+       x2="749.96878"
+       y2="433.47917"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="32.03125"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot79"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4755);fill-opacity:1;stroke:none"
+       transform="translate(-3.125,62.5)"><flowRegion
+         id="flowRegion81"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill-opacity:1;fill:url(#linearGradient4755)"><rect
+           id="rect83"
+           width="792.1875"
+           height="156.25"
+           x="3.125"
+           y="376.5625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill-opacity:1;fill:url(#linearGradient4755)" /></flowRegion><flowPara
+         id="flowPara85"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:85.33333333px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient4755);fill-opacity:1">Baier's Web Design</flowPara></flowRoot>    <g
+       id="g181"
+       transform="matrix(1.6058807,0,0,1.6058807,185.95679,-2.0560969)"
+       style="fill:url(#linearGradient4753);fill-opacity:1">
+      <path
+         id="path126"
+         d="m 32.976,228.062 c -0.103,-10.158 -7.216,-13.995 -7.216,-13.995 0,0 27.769,2.339 28.455,-34.381 0,0 2.792,-13.169 65.402,-7.736 5.281,0.461 17.8,29.692 18.681,39.111 0.888,9.427 1.591,17.001 1.591,17.001 h 48.191 c -0.419,-11.36 -9.103,-15.056 -13.98,-19.2 4.135,-35.647 11.047,-69.977 27.505,-70.735 12.83,-0.586 24.167,-4.533 29.706,-8.625 5.543,-4.089 40.45,-4.848 43.448,-8.231 3.042,-3.377 12.422,-13.121 10.526,-17.243 -1.849,-4.148 -18.981,-8.648 -18.981,-8.648 0,0 -2.061,-4.88 -3.558,-7.909 -1.501,-2.993 -17.662,-8.625 -17.662,-8.625 0,0 -3.342,-10.521 -5.97,-14.662 -2.647,-4.145 -11.275,7.13 -11.275,7.13 0,0 -30.195,0.042 -39.827,-2.989 -13.129,-4.141 -16.342,-11.849 -34.915,-12.027 -14.44,-0.125 -16.809,9.729 -29.784,10.308 -13.074,0.616 -37.478,-8.541 -71.454,-3.042 -34.022,5.501 -47.186,41.948 -49.787,54.36 -2.634,12.377 7.498,41.416 8.644,54.139 1.141,12.686 -8.285,22.235 -10.353,28.75 -2.032,6.467 5.149,27.248 5.149,27.248 0,0 27.498,2.643 27.464,0.001 z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g128"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g130"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g132"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g134"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g136"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g138"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g140"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g142"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g144"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g146"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g148"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g150"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g152"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g154"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+      <g
+         id="g156"
+         style="fill:url(#linearGradient4753);fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#000032;fill-opacity:0.09803922"
+       id="rect4827"
+       width="798.4375"
+       height="601.5625"
+       x="1.5625"
+       y="0" />
+  </g>
+</svg>
